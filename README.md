@@ -104,9 +104,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis" />
 </a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="Grafana" />
-</a>
+
 <!-- <a href="#">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="50" height="50" alt="Graphql" />
 </a> -->
