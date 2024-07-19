@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Mohd Kashif! 👋
+MERN Stack Developer | Noida, India
+About Me:
 
+🌱 I’m a MERN stack developer with a passion for building web applications.
+📍 Based in Noida, India.
+📚 I love reading books and staying updated with the latest in technology.
+🎵 Music is my constant companion while coding.
+🎬 A movie enthusiast who enjoys watching films of various genres.
+Skills:
 
-**mohdkashif1/mohdkashif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Frontend: React.js, Redux, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB, SQL
+Other Technologies: Git, Docker, RESTful APIs
